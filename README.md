@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Juliana Macedo 👋
 
 - 💻 Desenvolvedora Java FullStack Jr.
-- 🌱 Estudante na Generation Brasil
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 - 😄 Pronomes: Ela/ Dela
 
 <div align="center">
