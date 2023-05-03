@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Juliana Macedo 👋
 
-- 💻 Estagiária Tech
+- 💻 Desenvolvera Jr. Front-end na Americanas S.A
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 - 😄 Pronomes: Ela/ Dela
 
