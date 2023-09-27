@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Juliana Macedo 👋
 
-- 💻 Desenvolvera Jr. Front-end na Americanas S.A
+- 💻 Desenvolvera Jr. em construção
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 - 😄 Pronomes: Ela/ Dela
 
